@@ -2,12 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <Authors>Efrain Bautista</Authors>
+    <Authors>Henry Fuentes</Authors>
     <Company>UPG FISI</Company>
     <Product>Accounts Messages</Product>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Copyright>2019</Copyright>
-    <PackageProjectUrl>https://github.com//UNMSM-UPG-FISI</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/henrygustavo/banking_accounts_service</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>MoneyTransfer.Accounts.Messages</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
